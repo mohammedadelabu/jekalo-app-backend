@@ -1,4 +1,4 @@
-This is a JEKALO app. A simple CRUD app that can enable users to be created, gotten and deleted.
+This is a JEKALO app. A simple CRUD app that can enable users to be created, read and deleted.
 
 ## 1. I Implemented this app using MongoDB
 
